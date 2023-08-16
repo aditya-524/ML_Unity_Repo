@@ -3,6 +3,9 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 ML_Unity/ML_Tut_01/Library/*
+ML_Unity/python-envs/
+ML_Unity/MLU01/mlu01/Lib
+ML_Unity/MLU01/Library/PackageCache
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
